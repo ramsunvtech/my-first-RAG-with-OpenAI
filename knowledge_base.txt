@@ -1,0 +1,26 @@
+Name: Venkatraman, Son of Ramamoorthy
+Location: Singapore
+Current Role: Full Stack Engineer
+Roles Worked:
+- Member Technical Staff
+- Frontend Lead
+- Lead Engineer
+- Senior Programmer
+- Software Engineer
+
+Experience: More than a decade of experience in software engineering.
+Family: father, husband, son
+External Links:
+- https://medium.com/@ramsunvtech
+- https://stackoverflow.com/users/1533666/venkat-r
+- https://www.linkedin.com/in/venkatraman-r-ai/
+- https://github.com/ramsunvtech
+Tech Stacks:
+- Java, Spring Boot since 2018
+- Python / Fast since 2020
+- PHP / Hack since 2006
+- React, Redux, React Router, React Native since 2015
+- NodeJS, TypeScript since 2016
+- Tailwind, Material UI since 2020
+- HTML5, CSS3 since 2006
+Achievements: Delivered more than 10 applications used by millions of people.
